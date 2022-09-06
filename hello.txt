@@ -13,4 +13,4 @@ Hello,World! Hello,Git!
 Hello,World! Hello,Git!
 Hello,World! Hello,Git!hot_fix second
 Hello,World! Hello,Git!
-Hello,World! Hello,Git!
+Hello,World! Hello,Git!hot_fix third
